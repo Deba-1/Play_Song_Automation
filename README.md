@@ -16,3 +16,5 @@ This RPA project automates music playback with the following features:
 | **Online Play**  | Search and play from platforms.  |
 
 ✨ Enjoy seamless music automation!  
+## License
+This project is licensed under a restricted proprietary license. Unauthorized use, modification, or distribution is prohibited without explicit permission.
